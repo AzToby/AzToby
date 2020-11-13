@@ -1,6 +1,5 @@
 # Hi :wave:, I'm AzToby
 ![GitHub followers](https://img.shields.io/github/followers/AzToby?style=flat-square)
-![Email](https://img.shields.io/badge/Email-nminhtho2007@gmail.com-blue);
 # Facts :zap:
 :point_right: **I'm 13 years old. I'm from Viet Nam.**  
 :point_right: **I know JavaScript, PHP and C++.**
